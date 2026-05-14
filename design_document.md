@@ -29,4 +29,5 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 
 ### References
 [hl2-beta.ru - Team Fortress 2: Invasion mechanics](https://hl2-beta.ru/index.php?action=articles;sa=view;article=59;language=english)
-[Official TF2 wiki - invasion](https://wiki.teamfortress.com/wiki/Invasion). 
+
+[Official TF2 wiki - invasion](https://wiki.teamfortress.com/wiki/Invasion)
