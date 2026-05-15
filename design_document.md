@@ -48,7 +48,7 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 ## Parameter
 
 ## Design
-
+The game ressembles a cartoonish version of half-life 2 beta, especially 2000-2001 era, with dirty visuals annd WW1 inspired designs.
 ## Interface
 
 ### References
