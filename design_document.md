@@ -34,9 +34,9 @@ dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld 
 ## Systems & Mechanics
 
 ### Systems
-
+buildings - classes have buildings like bunkers and walls, others have buildings like buffstations and powerpacks which are meant to help out other players.
 ### Mechanics
-
+shield - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
 ## Parameter
 
 ## Design
