@@ -19,6 +19,8 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 | Move Left                        | A    |                        |
 | Move Right                       | D    |                        |
 | Duck                             | Ctrl |                        |
+| Fire                             | M1   |                        |
+| secondary action                 | M2   |                        |
 | Use Voice Chat                   | V    |                        |
 | Say                              | Y    |                        |
 | Say Team                         | U    |                        |
