@@ -38,7 +38,7 @@ buildings - classes have buildings like bunkers and walls, others have buildings
 ### Mechanics
 shield - some classes have the shield, which reduces the damage by half and has 5 seconds of use and 12 seconds of cooldown.
 ## Parameter
-
+most automatic weapons should have around 40 round clips, shotguns about 8, rocket launcher 1 per fire and grenade launcher should have 4.
 ## Design
 The game ressembles a cartoonish version of half-life 2 beta, especially 2000-2001 era, with dirty visuals and WW1 inspired designs.
 ## Interface
