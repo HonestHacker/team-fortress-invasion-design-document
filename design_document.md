@@ -12,30 +12,20 @@ Two teams, Humans and Aliens, fight to complete map objectives such as capturing
 The Humans and Aliens differ in gameplay philosophy. Humans require external power sources for some structures, while Aliens do not. Humans receive a 20% discount on buildings, while Aliens previously utilized reinforcement wave respawning.
 
 ## Control settings
-### movement
-w - move foward
-
-s - move back
-
-a - move left
-
-d - move right
-
-ctrl - duck
-### communication
-V - use voice chat
-
-Y - say
-
-U - say team
-
-E - call for medic
-### other/action
-, - change class
-
-. - change team
-
-G - taunt
+|              Action              |  PC  |        Gamepad         |
+|----------------------------------|------|------------------------|
+| Move Forward                     | W    |                        |
+| Move Back                        | S    |                        |
+| Move Left                        | A    |                        |
+| Move Right                       | D    |                        |
+| Duck                             | Ctrl |                        |
+| Use Voice Chat                   | V    |                        |
+| Say                              | Y    |                        |
+| Say Team                         | U    |                        |
+| Call for Medic                   | E    |                        |
+| Change Class                     | ,    |                        |
+| Change Team                      | .    |                        |
+| Taunt                            | G    |                        |
 
 ## General game style
 dark n' gritty, green and otherworldly skyboxes, distorted cities and overworld maps ith wide open areas for the firefight and flanking parts, thats some of the examples of atmosphere for team fortress invasion. the visuals are dirty and the gameplay is non-stop shooting and resource harvesting. a fast-paced game that each match goes around 15 minutes.
