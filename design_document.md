@@ -14,10 +14,11 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 ## Control settings
 |              Action              |  PC   | Gamepad |
 |----------------------------------|-------|---------|
-| Move Forward                     | W     | LSB     |
-| Move Back                        | S     | LSB     |
-| Move Left                        | A     | LSB     |
-| Move Right                       | D     | LSB     |
+| Move Forward                     | W     | LS      |
+| Move Back                        | S     | LS      |
+| Move Left                        | A     | LS      |
+| Move Right                       | D     | LS      |
+| Sprint                           | Shift | LSB     |
 | Jump                             | Space | Ⓐ      |
 | Crouch                           | Ctrl  | RSB     |
 | Primary fire                     | LMB   | RT      |
