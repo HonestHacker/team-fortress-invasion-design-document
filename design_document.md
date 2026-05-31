@@ -18,14 +18,14 @@ The Humans and Aliens differ in gameplay philosophy. Humans require external pow
 | Move Back                        | S    |                        |
 | Move Left                        | A    |                        |
 | Move Right                       | D    |                        |
-| Duck                             | Ctrl |                        |
-| Fire                             | M1   |                        |
-| secondary action                 | M2   |                        |
-| throw grenade                    | F    |                        |
-| throw secondary grenade          | G    |                        |
+| Crouch                           | Ctrl |                        |
+| Primary fire                     | LMB  |                        |
+| Secondary fire                   | RMB  |                        |
+| Throw grenade                    | F    |                        |
+| Throw secondary grenade          | G    |                        |
 | Use Voice Chat                   | V    |                        |
-| Say                              | Y    |                        |
-| Say Team                         | U    |                        |
+| Text chat                        | Y    |                        |
+| Team text chat                   | U    |                        |
 | Call for Medic                   | E    |                        |
 | Change Class                     | ,    |                        |
 | Change Team                      | .    |                        |
